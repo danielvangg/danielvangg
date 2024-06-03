@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @danielvangg
-- 👀 I’m interested in becoming a developer/software engineer. 
 - 🌱 I’m currently learning python, java, SQL and soon to pick up web programming.
 
 <!---
